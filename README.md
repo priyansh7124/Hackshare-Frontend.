@@ -7,7 +7,7 @@ Dont give yourself a hard time with team and resource management during Hackatho
 
 ### [✨ Visit Website]()🌐
 
-### [✨ Backend Repo](https://github.com/007xylogramori/Hackshare-Backend/)🌐
+### [✨ Backend Repo](https://github.com/priyansh7124/Hackshare-Backend)🌐
 
 ## Features 💯🚀🎯
 
