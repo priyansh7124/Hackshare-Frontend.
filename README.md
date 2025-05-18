@@ -43,7 +43,7 @@ Here are the steps you need to follow to install the dependencies.
 
 1. clone the repository.
 ```
-git clone [https://github.com/priyansh7124/Hackshare-Frontend.]
+git clone https://github.com/priyansh7124/Hackshare-Frontend.
 ```
 
 2. After that **cd** into the frontend directory then run this command to install all the dependencies
