@@ -5,7 +5,7 @@ Dont give yourself a hard time with team and resource management during Hackatho
 
 ![homepage](https://github.com/007xylogramori/hackshare-frontend/assets/119863801/64ae799e-c1be-464a-9a40-56e57eb368f0)
 
-### [✨ Visit Website](https://hackshare-frontend-1zvp.vercel.app/]🌐
+### [✨ Visit Website](https://hackshare-frontend-1zvp.vercel.app/)🌐
 
 ### [✨ Backend Repo](https://github.com/priyansh7124/Hackshare-Backend)🌐
 
